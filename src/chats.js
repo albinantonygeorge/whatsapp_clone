@@ -1,0 +1,18 @@
+export const contacts = [
+    { id: 1, name: 'lhoj' },
+    { id: 2, name: 'kbh' },
+    { id: 3, name: 'kih' },
+    { id: 4, name: 'khjoh' },
+    { id: 5, name: 'kihiu' },
+    { id: 6, name: 'lkjpk' },
+    { id: 7, name: 'oihuou' },
+    { id: 8, name: 'Sjuad' },
+    { id: 9, name: 'Ahjooj' },
+    { id: 10, name: 'yuuo' },
+    { id: 11, name: 'hijuo' },
+    { id: 12, name: 'higuu' },
+    { id: 13, name: 'ftrds' },
+    { id: 14, name: 'rtofr' },
+    { id: 15, name: 'funda' },
+    { id: 16, name: 'gundf' },
+  ];
