@@ -11,7 +11,7 @@ import SearchIcon from '@mui/icons-material/Search';
 import MoreVertIcon from '@mui/icons-material/MoreVert';
 import { contacts } from "../chats"
 import { messagesData } from "../messagedata"
-
+ 
 function Navbar() {
   return (
     <Paper style={{ height: '100vh', display: 'flex', flexDirection: 'column', backgroundColor: '#075E54', color: 'white', minWidth: 40 }}>
